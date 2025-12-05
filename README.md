@@ -1,5 +1,6 @@
 # StrainNet
 StrainNet is a deep learning based method for predicting strain from images
+StrainNet_calcium is a project trying to link us imaging with mechanosensitive calcium influx
 
 ![Teaser image](figures/StrainNet.gif)
 
